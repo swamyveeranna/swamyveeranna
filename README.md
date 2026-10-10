@@ -1,18 +1,48 @@
-# 💫 About Me:
-Hi, I'm Padamsetti Veeranna Swamy 👋<br><br>🎓 B.Tech Student | AI & Machine Learning | Aspiring Software Developer<br><br>I'm a Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning at DNR College of Engineering and Technology.<br><br>- 🔭 Project: Smart Curriculum Activity & Attendance App (EDU MANAGE)<br>- 🏆 Achievement: Team Leader, Internal Smart India Hackathon 2025<br>- 🌱 Currently learning: Python, Java, Web Development, and AI fundamentals<br>- 💡 Interests: Software Development, Artificial Intelligence, and Smart Education Solutions<br>- 📜 Certification: NPTEL Programming in Java (82%)<br>- 🤝 Open to learning opportunities, internships, and collaborative projects.<br><br>🛠️ Tech Stack<br><br>"Python" (https://img.shields.io/badge/Python-Basic-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>"Java" (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)<br>"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)<br><br>🚀 Featured Project<br><br>Smart Curriculum Activity & Attendance App (EDU MANAGE)<br><br>A smart education solution designed to simplify curriculum management and student attendance tracking.<br><br>- QR-code-based attendance and facial-recognition concepts<br>- User login and admin dashboard<br>- Attendance tracking logs and automated reporting<br>- Focus on simplifying academic activity management<br><br>🔗 "View Project" (https://swamyveeranna.github.io/smart-curriculum-attendance-system)<br><br>🏆 Achievements & Certifications<br><br>- Team Leader – Internal Smart India Hackathon 2025<br>- NPTEL Programming in Java – 82%<br>- Artificial Intelligence Fundamentals – Great Learning<br>- AI Tools & ChatGPT Workshop – be10x<br><br>📊 GitHub Statistics<br><br>"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=swamyveeranna&show_icons=true&theme=tokyonight)<br><br>"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=swamyveeranna&layout=compact&theme=tokyonight)<br><br>📫 Connect With Me<br><br>- 📧 Email: "swamyveeranna897@gmail.com" (mailto:swamyveeranna897@gmail.com)<br>- 💻 GitHub: "@swamyveeranna" (https://github.com/swamyveeranna)<br>- 🌐 Portfolio: "Smart Curriculum Project" (https://swamyveeranna.github.io/smart-curriculum-attendance-system)<br><br>---<br><br>⭐ Thanks for visiting my profile! I'm always ready to learn, build, and grow.
+Hi, I'm P. Veeranna Swamy 👋
 
+B.Tech CSE (AI & ML) Student | Aspiring Software Developer
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PADAMSETTI VEERANNA SWAMY ) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Veeranna Swamy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swamyveeranna897@gmail.com) 
+I'm a Computer Science student interested in programming, Artificial Intelligence, Machine Learning, and building practical software solutions.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=swamyveeranna&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=swamyveeranna&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=swamyveeranna&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🎓 Pursuing B.Tech in CSE (AI & ML)
+- 💻 Learning Python, Java, and web development
+- 🚀 Interested in building useful software projects
+- 🌱 Continuously learning and improving my programming skills
+
+🛠️ Technical Skills
+
+"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+"Java" (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+"HTML" (https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+🚀 Featured Projects
+
+1. Smart Curriculum Activity & Attendance App
+
+An academic application concept for managing student attendance, schedules, and educational activities.
+
+- Technologies: Add the technologies used in your implementation.
+- "View Project" (YOUR_PROJECT_REPOSITORY_URL)
+
+2. Java Programming Projects
+
+A collection of Java programs developed to practise programming fundamentals and problem-solving.
+
+- "View Project" (YOUR_JAVA_PROJECT_URL)
+
+🏆 Achievements & Certifications
+
+- Smart India Hackathon 2025 participation
+- NPTEL Java certification
+
+🤝 Connect With Me
+
+""GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/YOUR_USERNAME)
+""LinkedIn" (https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (YOUR_LINKEDIN_URL)
+""Email" (https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:YOUR_EMAIL)
 
 ---
-[![](https://komarev.com/ghpvc/?username=swamyveeranna&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Learning every day. Building step by step. Growing through code. 🚀
